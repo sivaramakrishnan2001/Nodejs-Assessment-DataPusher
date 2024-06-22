@@ -1,0 +1,16 @@
+{
+    "url": "http://localhost:3001/destinations/v1/create",
+    "Content-Type": "application/json",
+    "method": "POST",
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "body": {
+        "url": "http://localhost:3001/destinations/v1/create",
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "accountId": "ACCOUNT_ID"
+    }
+}

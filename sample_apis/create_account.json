@@ -1,0 +1,10 @@
+{
+    "url": "http://localhost:3001/account/v1/create",
+    "method": "POST",
+    "Content-Type": " application/json",
+    "body": {
+        "email": "test@example.com",
+        "name": "Test Account",
+        "website": "http://example.com"
+    }
+}
